@@ -3,3 +3,4 @@ Git is free software  distributed under the GPL.
 Git has a mutable index called stage.
 first modifed
 second modifed
+I add a local modified 
