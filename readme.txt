@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 first modifed
 second modifed
 I add a local modified 
+
+Creating a new branch is quick.
