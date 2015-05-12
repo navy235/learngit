@@ -5,4 +5,5 @@ first modifed
 second modifed
 I add a local modified 
 
-Creating a new branch is quick.
+Creating a new branch is quick. 
+comflict1 has been created.
