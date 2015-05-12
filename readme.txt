@@ -6,3 +6,4 @@ second modifed
 I add a local modified 
 
 Creating a new branch is quick.
+conflict2 has been created.
