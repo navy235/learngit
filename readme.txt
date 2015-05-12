@@ -7,4 +7,4 @@ I add a local modified
 
 Creating a new branch is quick.
 comflict1 has been created.
-
+new branch
